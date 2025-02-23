@@ -1,3 +1,6 @@
 raw/
 downgraded_raw/
 saved_models/
+opticalflow_data/
+rgb_data/
+unseen_data/
